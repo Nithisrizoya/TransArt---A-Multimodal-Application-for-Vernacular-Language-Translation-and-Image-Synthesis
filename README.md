@@ -1,0 +1,2 @@
+# TransArt---A-Multimodal-Application-for-Vernacular-Language-Translation-and-Image-Synthesis
+The project describes TransArt, a project to create a web app that translates text from Tamil to English and generates images based on the translated text. The app uses AI models for translation, image generation, and creative text creation, deployed via Streamlit or Gradio on platforms like Hugging Face or AWS.
