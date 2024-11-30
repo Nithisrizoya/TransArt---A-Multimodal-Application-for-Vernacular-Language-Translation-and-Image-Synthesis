@@ -14,25 +14,25 @@ Create a user-friendly, web-based application that can:
 
 # Objectives:
 
-   >> Translate Tamil text into English.
+   > Translate Tamil text into English.
    
-   >> Generate images based on the translated English text.
+   > Generate images based on the translated English text.
    
-   >> Optionally produce creative English text based on the translation.
+   > Optionally produce creative English text based on the translation.
 
 # Business Use Cases:
 
 **1.	Educational Tools:**
 
-○	Scenario: Students or educators input descriptive Tamil text and receive corresponding visual content in English to aid in understanding and retention.
+○	**Scenario:** Students or educators input descriptive Tamil text and receive corresponding visual content in English to aid in understanding and retention.
 
-○	Application: Enhances learning experiences by combining linguistic and visual elements.
+○	**Application:** Enhances learning experiences by combining linguistic and visual elements.
 
 **2.	Creative Content Generation:**
 
-○	Scenario: Content creators input Tamil descriptions of scenes or concepts, which are translated and then visually rendered.
+○	**Scenario:** Content creators input Tamil descriptions of scenes or concepts, which are translated and then visually rendered.
 
-○	Application: Streamlines the creation of visual content for digital marketing, presentations, and educational materials.
+○	**Application:** Streamlines the creation of visual content for digital marketing, presentations, and educational materials.
 
 # Tools and Frameworks:
 
