@@ -57,6 +57,7 @@ Create a user-friendly, web-based application that can:
 
            * streamlit_page1.png
            * streamlit_page2.png
+           
            * gradio_page1.jpg
            * gradio_page2.jpg
 
