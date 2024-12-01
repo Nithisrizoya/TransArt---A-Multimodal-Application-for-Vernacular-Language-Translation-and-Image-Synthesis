@@ -12,6 +12,10 @@ Create a user-friendly, web-based application that can:
    
 3.	Produces creative written content based on the same or separate translated text, enriching the multimedia content offering.
 
+# Domain
+
+     AIOPS
+
 # Objectives:
 
    > Translate Tamil text into English.
